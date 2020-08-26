@@ -1,8 +1,8 @@
 export const theme = {
     color: {
-        bigStone: "#14213d",
-        sunset: "#FCA311",
-        blackend: "#000000",
+        bigStone: "CadetBlue",
+        sunset: "Teal",
+        blackend: "SlateGray",
 
     },
     breakpoint: {
