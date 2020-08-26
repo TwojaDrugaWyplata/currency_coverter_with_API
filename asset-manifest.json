@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/twojadrugawyplata.github.io/currency_coverter_with_API/static/css/main.b0274da8.chunk.css",
+    "main.js": "/twojadrugawyplata.github.io/currency_coverter_with_API/static/js/main.d848d243.chunk.js",
+    "main.js.map": "/twojadrugawyplata.github.io/currency_coverter_with_API/static/js/main.d848d243.chunk.js.map",
+    "runtime-main.js": "/twojadrugawyplata.github.io/currency_coverter_with_API/static/js/runtime-main.272c794b.js",
+    "runtime-main.js.map": "/twojadrugawyplata.github.io/currency_coverter_with_API/static/js/runtime-main.272c794b.js.map",
+    "static/js/2.24acf91b.chunk.js": "/twojadrugawyplata.github.io/currency_coverter_with_API/static/js/2.24acf91b.chunk.js",
+    "static/js/2.24acf91b.chunk.js.map": "/twojadrugawyplata.github.io/currency_coverter_with_API/static/js/2.24acf91b.chunk.js.map",
+    "index.html": "/twojadrugawyplata.github.io/currency_coverter_with_API/index.html",
+    "precache-manifest.38b187c7ced31535d1b7ca1884f932e0.js": "/twojadrugawyplata.github.io/currency_coverter_with_API/precache-manifest.38b187c7ced31535d1b7ca1884f932e0.js",
+    "service-worker.js": "/twojadrugawyplata.github.io/currency_coverter_with_API/service-worker.js",
+    "static/css/main.b0274da8.chunk.css.map": "/twojadrugawyplata.github.io/currency_coverter_with_API/static/css/main.b0274da8.chunk.css.map",
+    "static/js/2.24acf91b.chunk.js.LICENSE.txt": "/twojadrugawyplata.github.io/currency_coverter_with_API/static/js/2.24acf91b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/twojadrugawyplata.github.io/currency_coverter_with_API/static/media/background-picture.93df400b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.272c794b.js",
+    "static/js/2.24acf91b.chunk.js",
+    "static/css/main.b0274da8.chunk.css",
+    "static/js/main.d848d243.chunk.js"
+  ]
+}
